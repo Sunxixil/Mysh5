@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>bzdjkfkkd</title>
+    <title>唐诗一首</title>
 </head>
 <body>   
 <img src="0.jpg"/>    
